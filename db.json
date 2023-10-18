@@ -7,7 +7,7 @@
     "senha":"2023"
     }
   ],
-  "filmes":[
+  "filmes":
      {
    "id": 1,
     "titlulo": "Duro de Atuar",
@@ -48,5 +48,5 @@
     "sinopse":
       "Uma adolescente que acabou de se mudar para uma cidadezinha testemunha um assassinato brutal. Depois disso, ela começa a ter visões e desejos bizarros.",
   },
-  ]
+  
 }
