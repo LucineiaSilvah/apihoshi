@@ -9,11 +9,11 @@
   ],
   "filmes": [
      {
-    id: 1,
-    titulo: "Duro de Atuar",
-    capa: "https://www.themoviedb.org/t/p/w1280/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg",
-    url: "https://embedflix.net/filme/tt26198528",
-    sinopse:
+    "id": 1,
+    "titulo": "Duro de Atuar",
+    "capa": "https://www.themoviedb.org/t/p/w1280/hcuZ68ymJgohTerR8Oo1mb76SJv.jpg",
+    "url": "https://embedflix.net/filme/tt26198528",
+    "sinopse":
       "Kevin Hart, fazendo uma versão de si mesmo, vai encarar o desafio da sua vida para se tornar um herói de ação. E só com a ajuda de John Travolta, Nathalie Emmanuel e Josh Hartnett que ele poderá alcançar o sucesso.",
   },
   {
