@@ -38,4 +38,13 @@
   
 
   ]
+  "musicas":[
+    {
+    "id":1,
+    "capa": "capaalbum",
+    "titulo": "nomemusica",
+     "banda":"nomebanda",
+     "link":"linkMusica"
+    }
+  ]
 }
