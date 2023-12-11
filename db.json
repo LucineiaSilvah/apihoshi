@@ -1,4 +1,13 @@
-{
+{ "users":[
+
+    {
+      "id":1,
+      "nome":"teste",
+      "email":"luh@luh",
+      "senha":"12344"
+
+    }
+],
   "filmes": [
     {
       "id": 1,
