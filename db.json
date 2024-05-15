@@ -24,19 +24,19 @@
       ]
     },
     {
-      "nome": "Artista2",
+      "nome": "Adele",
       "musicas": [
         {
-          "titulo": "Música3",
-          "capa": "https://akamai.sscdn.co/tb/320x320/palcomp3-logo/b/7/4/8/57c8325bfe404e93a45f9a2eaeaa820a.jpg",
+          "titulo": "Rolling in the Deep",
+          "capa": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
           "genero": "pop",
-          "url": "https://drive.google.com/file/d/1NqerlP-Ihw29eAJPPo4UVxy-7M8WCp9V/preview?usp=sharing"
+          "url": "https://drive.google.com/file/d/1VKKTaPtOhiv-tkI7-3lDKRCc34E4qDVz/view?usp=sharing"
         },
         {
           "titulo": "Música4",
-          "capa": "https://akamai.sscdn.co/tb/320x320/palcomp3-logo/b/7/4/8/57c8325bfe404e93a45f9a2eaeaa820a.jpg",
+          "capa": "https://images.genius.com/8a23ab928ccfce13accfde72f1290702.1000x1000x1.jpg",
           "genero": "pop",
-          "url": "https://drive.google.com/file/d/1NqerlP-Ihw29eAJPPo4UVxy-7M8WCp9V/preview?usp=sharing"
+          "url": "https://drive.google.com/file/d/1Hj80lIaEBR9z7WoanSF2QL-WTko-XGvx/view?usp=sharing"
         }
       ]
     }
