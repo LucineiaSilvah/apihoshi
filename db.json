@@ -1,16 +1,18 @@
 {
   "artistas":[
     {
-      "nome": "hungria",
+      "nome": "Artista1",
       "musicas": [
         {
-          "titulo": "Amor e fé",
-          "genero": "Hip-Hop",
-         },
+          "titulo": "Música3",
+          "duracao": "2:55",
+          "genero": "Jazz"
+        },
         {
-          "titulo": "Beijo com Trap",
-          "genero": "Hip-Hop",
-         }
+          "titulo": "Música4",
+          "duracao": "5:10",
+          "genero": "Eletrônica"
+        }
       ]
     },
     {
