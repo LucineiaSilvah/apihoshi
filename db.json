@@ -44,30 +44,6 @@
     "url":"https://embedflix.net/filme/tt13051810",
       "sinopse":"Uma adolescente que acabou de se mudar para uma cidadezinha testemunha um assassinato brutal. Depois disso, ela começa a ter visões e desejos bizarros."
     }
-  ],
-  "musicas": [
-    {
-      "titulo": "Nome da Música",
-      "artista": "Nome do Artista",
-      "album": "Nome do Álbum",
-      "genero": "Gênero Musical",
-      "duracao": "Duração da Música",
-      "ano_lancamento": "Ano de Lançamento",
-      "compositores": ["Nome do Compositor 1", "Nome do Compositor 2"],
-      "letra": "Letra da Música",
-      "url": "URL para a Música"
-    },
-    {
-      "titulo": "Outra Música",
-      "artista": "Outro Artista",
-      "album": "Outro Álbum",
-      "genero": "Outro Gênero Musical",
-      "duracao": "Outra Duração da Música",
-      "ano_lancamento": "Outro Ano de Lançamento",
-      "compositores": ["Nome do Compositor 3"],
-      "letra": "Letra da Outra Música",
-      "url": "Outra URL para a Música"
-    }
   ]
 }
 
